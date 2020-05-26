@@ -18,3 +18,7 @@ Here we see that the U.S. is on course to having much more deaths (and if  you a
 
 Considering there was no cure for the virus at this time, it would make sense that the global recovery rate is much lower than the amount of confirmed cases.
 
+## Conclusion
+
+Based on the visualizations above, you can clearly see that the U.S. is on course to becoming a majorly affected country by the virus in the entire world. The confirmed cases are already number 1 in the world, and the death toll will only continue to rise.
+
