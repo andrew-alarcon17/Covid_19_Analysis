@@ -1,5 +1,8 @@
 # Covid-19 Analysis
 
+## Data Description
+This data contains information of those observed with the virus as of March 26th, 2020. More specifically, whether it is confirmed if they have the virus, if they have recovered, or if they have passed away due to the virus. This data also contains information on where the person observed is from with the columns State/Province and Country/Region.
+
 ## Background
 As of March 26th, 2020, the purpose of this notebook is to understand the growth rate of the Covid-19 virus in China and the U.S, and how they differ. Information is also extracted from the data about the countries that have been mostly impacted with confirmed cases of the virus.
 
@@ -19,6 +22,5 @@ Here we see that the U.S. is on course to having much more deaths (and if  you a
 Considering there was no cure for the virus at this time, it would make sense that the global recovery rate is much lower than the amount of confirmed cases.
 
 ## Conclusion
-
 Based on the visualizations above, you can clearly see that the U.S. is on course to becoming a majorly affected country by the virus in the entire world. The confirmed cases are already number 1 in the world, and the death toll will only continue to rise.
 
